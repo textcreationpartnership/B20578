@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles and orders, made and agreed upon the 9th day of July, 1747 and in the three and twentieth year of the raign of our soveraign Lord Charles, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. / by the Company of Adventurers for the Plantation of the Islands of Eleutheria, formerly called Buhama in America, and the adjacent islands to be observed and by all and singular adventurers, to planters and dwellers upon, and all resiants [sic] at the same islands.</title>
+            <author>Company of Adventurers for the Plantation of the Islands of Eleutheria.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20578</idno>
+            <idno type="STC">Wing C5583</idno>
+            <idno type="EEBO-CITATION">16998182</idno>
+            <idno type="OCLC">ocm 16998182</idno>
+            <idno type="VID">206266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1612:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles and orders, made and agreed upon the 9th day of July, 1747 and in the three and twentieth year of the raign of our soveraign Lord Charles, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. / by the Company of Adventurers for the Plantation of the Islands of Eleutheria, formerly called Buhama in America, and the adjacent islands to be observed and by all and singular adventurers, to planters and dwellers upon, and all resiants [sic] at the same islands.</title>
+                  <author>Company of Adventurers for the Plantation of the Islands of Eleutheria.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Colonies --  America.</term>
+               <term>Bahamas --  History.</term>
+               <term>Bahamas --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206266:1" rendition="simple:additions"/>
+            <head>Articles and Orders, made and agreed upon the 9<hi rend="sup">th.</hi> Day of July, 1647. and in the three and twentieth Year of the Raign of our Soveraign Lord Charles, by the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland;</hi> Defender of the Faith, &amp;c. By the Company of ADVENTURERS for the PLANTATION of the Iſlands of ELEUTHERIA, formerly called BUHAMA in AMERICA, and the adjacent <hi>Iſlands</hi> to be obſerved and performed by all and ſingular ADVENTURERS, to PLANTERS and dwellers upon, and all <hi>Reſiants</hi> at the ſame <hi>ISLANDS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas experience hath ſhewed us the great inconveniencies that have happened, both in this Kingdom of <hi>England,</hi> and other places, by a rigid im<g ref="char:EOLhyphen"/>poſing upon all an uniformity and conformity in matters of judgement and practice in the things of Religion, whereby diviſions have been made, factions fomented, perſecutions induced, and the publick peace endangered. And for that we well know, that in this ſtate of darkneſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mperfection, we know but in part, That there are bothbabes and ſtrongmen in <hi>Christ:</hi> And that every Member who holds the head, and is of the body of <hi>Jeſus Chriſt,</hi> hath not the ſame place and office, nor the ſame meaſure of light, who yet deſire and endeavour daily to increaſe in knowledge. And in the mean time walk according to what they have received, in all godlineſs, juſtice &amp; ſobriety. And whereas experience hath alſo ſhewed us, That the peace and happy pro<g ref="char:EOLhyphen"/>greſs of all Plantations, doth much depend upon the good government thereof, the equal diſtribution of juſtice, and reſpect to all perſons, without faction or diſtinction, the certain knowledg and manifeſtation of every ones right and proprieties, and carefull proviſions for common defence and ſafety.</p>
+            <p>
+               <hi>It is therefore ordered,</hi> That all ſuch perſon and perſons, who are ſo as aforeſaid qualified, ſhall be received and accepted as Members of the ſaid Company of <hi>Adven<g ref="char:EOLhyphen"/>turers,</hi> and into the ſaid <hi>Plantation,</hi> notwithſtanding any other difference of judgement, under whatſoever other names conveyed, walking with juſtice and ſobriety, in their particular converſations, and living peaceably and quietly as Members of the Re-publick.</p>
+            <p>That there ſhall be no names of diſtinction or reproach, as <hi>Independent, Antinomian, Anabaptiſt,</hi> or any other caſt upon any ſuch for their difference in judgement, neither yet ſhall any perſon or perſons, aſſume or acknowledge any ſuch diſtinguiſhing names, under the penalty of being accompted (in both caſes, either of impoſing or accepting or aſſuming any ſuch name or names) as enemies of the publick peace: nor ſhall any man ſpeak reproachfully of any perſon for his opinion, or of the opi<g ref="char:EOLhyphen"/>nion it ſelf, otherwiſe then in the <hi>Scripture</hi> Language.</p>
+            <p>That no Magiſtracie or Officers of the Republike, nor any power derived from them, ſhall take notice of any man for his difference in judgement in matter of Re<g ref="char:EOLhyphen"/>ligion, or have cognizance of any cauſe whatſoever of that nature: But that their jurisdiction ſhall reach onely to men as men, and ſhall take care that juſtice, peace, and ſobriety, may be maintained among them. And that the flouriſhing ſtate of the re-publick may be by all juſt meanes promoted.</p>
+            <p>That the preſent Adventurers, and all other perſons, who within the ſpace of one year now next enſuing, ſhall bring into the publick ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k, the ſum of 100 <hi>l.</hi> ſhall be admitted and reckoned into the number of the firſt <hi>Adventurers,</hi> their number not exceeding one hundred perſons.</p>
+            <p>That every one of the number of the firſt <hi>Adventurers,</hi> ſhall have three hundred Acres of Land, laid out for him and his Heires for ever, in the firſt convenient place which ſhall be choſen, by thoſe perſons of the number of firſt <hi>Adventurers,</hi> who go to the ſaid <hi>Plantation,</hi> in the preſent expedition and ſhipping. And that the ſaid quantity of three hundred Acres for each firſt <hi>Adventurer;</hi> ſhall at the end of the firſt three yeares, or ſooner, if the major part of the ſaid number or Com<g ref="char:EOLhyphen"/>pany of firſt <hi>Adventurers</hi> ſhall require the ſame, ſhall be divided and ſet out by lot, unto every particular perſon. And that in the mean time, all the ſame Land ſhall be imployed and improved for the joynt advantage of the ſaid Company. And that for the further and better encouragement of the ſaid firſt <hi>Adventurers,</hi> every one of the ſaid Company of firſt <hi>Adventurers</hi> ſhall have two thouſand Acres more of Land, to be laid out for him and his Heires for ever, in ſuch place or places as ſhall be moſt convenient and ſatisfactory unto him, and leaſt prejudicial or diſadvantagious to the publick. And that this ſhall be effected with as much convenient ſpeed, as the occaſions of the Plantation will permit. And that all the adjacent Iſlands ſhall be reſerved to, and laid out and had for the uſe of the ſaid Company of firſt Adventurers.</p>
+            <p>That as well every one of the <hi>Adventurers</hi> aforeſaid, as alſo every other perſon, who ſhall at any time or times, within three yeares tranſport, at his own charge, un<g ref="char:EOLhyphen"/>to the ſaid <hi>Plantation,</hi> any perſon or perſons, ſhall have and enjoy to him the ſaid Tranſporter and his Heires for ever, the quantity of thirty five Acres of Land <hi>per</hi> per<g ref="char:EOLhyphen"/>ſon, for every perſon which he ſhall ſo tranſport; the ſame Land to be ſet out and appointed for him, by ſuch as ſhall be hereafter authorized for that purpoſe by the firſt <hi>Adventurers</hi> upon the place. And that if any Servants or Children, or other perſons who ſhal be ſhipped to be tranſported to the ſaid <hi>Plantation,</hi> ſhall after their ſhipping miſcarry, or die by the way: yet nevertheleſs, the perſon at whoſe charge any ſuch miſcarrying or dying perſon, Child or Servant, was ſhipped ſhall have and enjoy to him and his Heires for ever in the ſaid <hi>Plantation,</hi> and to be ſet out and appointed as aforeſaid, the quantity of thirty five Acres for or in reſpect of each one perſon ſo dying or miſcarrying, in as ample manner, as if he had been ſafely tranſported, and come into the ſaid <hi>Plantation.</hi> And that every other perſon and perſons, that ſhall adventure, after three yeares ſhall have five and twenty Acres.</p>
+            <p>That every Servant being a <hi>Chriſtian,</hi> which ſhall be tranſported to the ſaid <hi>Plantation,</hi> and ſhall ſerve out his time agreed upon, to the uſe of him who tranſported <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, or of his Aſſignes, ſhall at the end of his ſaid time of ſervice, have and injoy to him the ſaid Servant and his Heires for ever, the quantity of twenty and five Acres of Land, to be allowed and ſet out for him by ſuch as ſhall be authorized by the Governour and Councel. And for the better fortifying of the ſaid <hi>Plantations,</hi> and for the encouragement of the firſt <hi>Adventurers</hi> in a work of that hazard; and alſo for the exciting and awakeing the induſtry of all: It is further ordered and agreed;</p>
+            <p>That whatſoever Ordinance can be recovered of any wraks, ſhall be wholly imployed for the uſe of the publick, and ſerve for the fortification of the <hi>Plantation.</hi>
+            </p>
+            <p>That all other wraks which ſhall be recovered upon, or near the Iſlands, or upon or near any the adjacent Iſlands: And alſo all Mynes of Gold, Silver, Copper, Braſſe or Lead, Ambergreiſe, ſalt; and all rich woods, either for tincture or medicament, which ſhal be had or found upon or neer the Iſlands or territories aforeſaid, in any Land not divided, or ſet over to any particular proprietor, ſhall be delivered into the Cuſtody of two ſuch perſons, Merchants or Agents for the ſaid Company, as ſhall be yearly choſen by the ſaid Company for that purpoſe, and the ſame Mines, Wracks, Ambergreiſe, Metalles, Salts, and Woods, ſhall be by the ſaid two Agents, made fit for ſale, and be by them withall convenient ſpeed, ſold for the beſt price and advantage, and the whole price and value thereof (the Charges and wages for the procuring and fitting of them for ſale, being firſt deducted and diſcharged) ſhall be divided into three equal parts and ſhates; and the firſt of the ſame three parts, ſhall be unto him or them, who ſhall be the undertaker or finder thereof: the ſecond part ſhall be paid and diſtributed unto, and among the firſt <hi>Adventurers,</hi> their Heires, Execu<g ref="char:EOLhyphen"/>tors and aſſignes, equally: and the other third part ſhall be paid and delivered into the publick Treaſury of the ſaid <hi>Plantation,</hi> to be imployed and laid out for the uſe of the publick, by order and warrant from the Governor and Councel there, for the time being. But if the ſame ſhall be found in any of the Lands appropriated, the firſt third part ſhall be to the owner or proprietor of the ſame Lands, and the other two thirds as aforeſaid: That when the Plantation ſhall ſufficiently be fortifyed, and all neceſſary publick works finiſhed, and the generall Magazines ſufficiently ſtored, then what ſhall be ſpared of the publick third in the wracks and Commodities aforeſaid, ſhall be imployed in works of mercy and charity, and for the tranſporting from <hi>England</hi> and other places ſuch godly people as ſhall be willing to go unto the ſaid <hi>Plan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ns,</hi> and are not able to beare the charge of their tranſportation and ſetling there.</p>
+            <p>That no perſon ſhall pretend unto, or claim any Wracks, Mynes, Ambergreiſe, Salt, or rich woods, as aforeſaid; for, or by reaſon of their growing, or being in or upon his lot or ſhare of ground, which ſhall be appointed to him as above ſaid; but all the ſaid particulars ſhall be diſpoſed and imployed, as before is expreſſed. That none of the ſaid rich Woods growing upon Lands not appropri<g ref="char:EOLhyphen"/>ated, ſhall be cut down by any perſon, but by warrant firſt had and obtained from the <hi>Governor</hi> and <hi>Councel</hi> for that purpoſe; and if any ſhall do otherwiſe, then he that ſhall cut, or cauſe to be cut, any of the ſaid Woods without ſuch warrant, ſhall looſe and forfeit all that ſhare which he might under any qualification whatſoever, pretend unto in the ſaid Woods; and the ſame forfeiture ſhall be to the uſe of the ſaid <hi>Colonie.</hi> That if any places ſhall appear fit for making ſalt, which yet makes it not naturally, then the ſalt-works ſhall be perfected at the publick charge, and the provenue thereof to come into the publick Treaſury, and be imployed for ever for the publick ſervice, as aforeſaid. That no Inhabitant of theſe <hi>Plantations,</hi> ſhall in their converſe with any of the <hi>Natives</hi> of a<g ref="char:EOLhyphen"/>ny of thoſe parts, offer them any wrong, violence, or incivility whatſoever; but ſhall deal with them with all juſtice and ſweetneſs, ſo far as may ſtand with their own ſafety, thereby to work in them a good opinion of love, unto the wayes and knowledg of God, which every one ſhall endeavour to hold forth, and communicate unto them in the beſt manner that they can. And whereas the Com<g ref="char:EOLhyphen"/>pany is informed, that there are ſome <hi>Indians</hi> have been taken and ſold at ſome of the <hi>Caribe</hi> Iſlands: It is therefore agreed and ordered, that the <hi>Indians</hi> ſhall be ſought out and redeemed: And af<g ref="char:EOLhyphen"/>ter they have ſome time continued in thoſe <hi>Plantations,</hi> for their inſtructions, and make them ſenſible of the benefit. They ſhall be then returned to the places from which they were taken, that eve<g ref="char:EOLhyphen"/>ry <hi>Planter</hi> ſhall himſelf provide Arms and Ammunition ſufficient, for his own perſons (going to the ſaid <hi>Plantations</hi>) and for every Male that he ſhall tranſport thither, who is or ſhall be from time to time able to bear Arms, and that ſuch adventurer ſhall not have his ſhare of Land ſet out unto him for any Male perſon, unleſs he be as aforeſaid, provided of ſufficient Arms and Ammunition for them. That all in the ſaid <hi>Plantations</hi> from the age of ſixteen to ſixty years, ſhall be ready to come to the ſeveral <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>andevous appointed them, upon any Alarm, ready and armed for the ceſence of the <hi>Plantations;</hi> That none ſhall be compelled to take Arms, or go to war out of the <hi>Countrey</hi> unleſs it be for the neceſſary defence thereof, and to expel or divert an eminent invaſion, neither ſhall any be ſuffered to take any depredations or invaſions upon any, either by Sea or Land, unleſs upon a War firſt begun by them and open War by the ſaid <hi>Plantations,</hi> firſt denounced againſt them. That the Government of the ſaid <hi>Iſlands</hi> and <hi>Plantations,</hi> ſhall be continued in a Senate of the number of one hundred perſons; and that the Company of the firſt Adventurers aforeſaid, ſhall at preſent be the ſame Senate. And whenſoever any of them ſhall die or ſell away his Intereſt in the ſaid <hi>Plantations;</hi> then there ſhall be another elected in his roome from time to time, by the Major part of the ſaid Senate, out of the other <hi>Adventurers</hi> and <hi>Planters</hi> Reſiant in the ſaid I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands. And the ſame election ſhall be made in this manner, <hi>(viz.)</hi> Firſt, 20. fit perſons ſhall be nominated. Then thoſe 20. reduced to the number of 4. by ſcrutiny, and out of thoſe 4. one to be choſen by Ballotines. And ſo from time to time, as often as any Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ber of the ſaid Senate, ſhall deceaſe or ſhall allien or diſcontinue his intereſt in the ſaid <hi>Plantations,</hi> or ſhall be amoved by the ſaid Senate, upon juſt cauſe or complaint. And that the ſame Senate ſhall from time to time make election o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all Of<g ref="char:EOLhyphen"/>ficers, for doing of juſtice, and diſtribution and ſetting out of Lands, and for the care and over-ſight of all publick works, and ſhall have the ordering and diſpoſing of all publick monies. That after the firſt three yeares expired, there ſhall be yearely a <hi>Governor</hi> and 12. <hi>Councellers</hi> choſen out of the ſaid number, of 100. Senators, who ſhall take the daily care of all things neceſſary for the proſpe<g ref="char:EOLhyphen"/>rity of the <hi>Plantation;</hi> and that it in nothing ſuffer detriment or decay. And that the publick peace be maintained between man and man, and ſpeedy juſtice done unto every man that ſhall ſeek it at their hands. And that the ſaid <hi>Governor</hi> and <hi>Councel,</hi> ſhall have power to call together upon any emergency, to the ſaid Senate or ſo many of them, as ſhall then be upon the ſaid Iſlands, and to act and execute what ſhall be by the ſaid convention of Senators, ordered and referred, or committed unto them. That the firſt Governor and Councel ſhall be elected by the firſt <hi>Adventurers</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> when the number of <hi>Adventurers</hi> who will tranſport themſelves is once known. And that the ſame firſt <hi>Governor</hi> and <hi>Councel</hi> ſhall continue in their Office three whole yeares from the firſt day of their arrival at the ſaid Iſlands or Plantation. That all ſucceeding <hi>Governors</hi> and <hi>Councel</hi> ſhall after the aforementioned term expired, be yearly choſen on the firſt <hi>Tueſday</hi> in <hi>December,</hi> for one whole year to come, beginning the firſt day of <hi>January</hi> following, by all the free-men of the ſaid <hi>Plantations,</hi> by way of ſcrutiny and <hi>Ballotines,</hi> in ſuch manner as is before expreſſed. That every perſon that ſhall tranſport himſelf to the ſaid <hi>Plantations,</hi> or deſire to become a Member of the ſame <hi>Plantation,</hi> ſhall before his admittance thereunto, acknowledge his allowance, and conſent unto all and every one of theſe <hi>Articles;</hi> and by ſubſcribing the ſame, bind himſelf to conformity thereunto for the future. And this to be done before he be admitted into the ſaid Company, and before he hath any ſhare or proportion of Land ſet out and aſſigned to him according to theſe <hi>Articles.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
